@@ -19,7 +19,7 @@ Python 3.x (no extra libraries needed — uses only built-in modules)
 Usage
 Option 1: Run manually
 bash
-python duzenleyici.py
+samorganizer.py
 
 You'll be prompted to enter the full path of the folder you want to organize.
 
@@ -28,7 +28,7 @@ bash
 python duzenleyici.py "C:\Users\YourName\Downloads"
 Option 3: Windows shortcut (.bat file)
 
-A duzenle.bat file is included, which automatically organizes your Downloads folder with a single double-click. It uses the %USERPROFILE% environment variable, so it works on any Windows account without editing the path.
+A samorganizer.bat file is included, which automatically organizes your Downloads folder with a single double-click. It uses the %USERPROFILE% environment variable, so it works on any Windows account without editing the path.
 
 Example output
 Moved: photo.jpg -> Images/
