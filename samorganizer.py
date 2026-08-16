@@ -7,7 +7,10 @@ Folders = {
     ".png": "Images",
     ".jpeg": "Images",
     ".gif": "Images",
+    ".tif": "Images",
+    ".ico": "Images",
     ".pdf": "Documents",
+    ".udf": "Documents",
     ".docx": "Documents",
     ".txt": "Documents",
     ".xlsx": "Documents",
@@ -15,6 +18,7 @@ Folders = {
     ".mov": "Videos",
     ".mp3": "Audios",
     ".zip": "Compressed",
+    ".rar": "Compressed",
     ".exe": "Applications",
 }
 
