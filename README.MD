@@ -6,6 +6,7 @@ What it does
 
 Scans a target folder and moves each file into a subfolder based on its extension:
 
+
 Extension	Destination Folder
 .jpg, .jpeg, .png, .gif	Images
 .pdf, .docx, .txt, .xlsx	Documents
